@@ -14,7 +14,7 @@ This is shown by creating a domain for an imaginary company, Corp Lab, that has 
 | --------- | ------- |
 |    VM     |  Azure  |
 | Domain Controller | Windows Server 2022 - ```D01``` - ```10.0.0.4``` |
-| Workstation | Windows - Server 2022 ```CLIENT01``` - ```10.0.0.5``` |
+| Workstation | Windows Server 2022 - ```CLIENT01``` - ```10.0.0.5``` |
 | Domain | ```corplab.local``` |
 | Gateway | ```10.0.0.1``` |
 
