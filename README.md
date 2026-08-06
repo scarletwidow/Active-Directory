@@ -5,11 +5,13 @@ The desired outcome of this lab is to create a Windows Server virtual machine in
 
 [Lab Instrustions](https://jakestechlabs.com/labs/ad-basics)
 
+***
+
 # Environment
 | Component | Details |
 | --------- | ------- |
 |    VM     |  Azure  |
 | Domain Controller | Windows Server 2022 - ```D01``` - ```10.0.0.4``` |
-| Workstation | Windows Server 2022 ```CLIENT01``` - |
+| Workstation | Windows - Server 2022 ```CLIENT01``` - ```10.0.0.5``` |
 | Domain | ```corplab.local``` |
 | Gateway | ```10.0.0.1``` |
