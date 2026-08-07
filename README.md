@@ -63,6 +63,17 @@ This GPO is used to enforce password security across the entire domain.
 | Max password age | 42 days | 60 days |
 | Min password length | 7 characters | 10 characters |
 
+***
+
+# Skills Established 
+
+* Deployment of Windows Server VM in Azure
+* Active Directory Domain Service - domain and forest deployment from scratch
+* Group Policies - basic security enforcement 
+* Organizational Units - designed role based hierarchy with policy targeting 
+* Remote Administration - RDP into windows server
+* Windows Networking - static IP assignment, domain join
+
 
 
 
