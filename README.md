@@ -50,6 +50,18 @@ corplab.local
 
 **Location-based OUs** make it simple and quick to apply Group Policies and delegate access to users across the domain. In a production environment, separating by location rather than object type allows GPOs to be applied to users and computers. It also allows for quicker troubleshooting, a computer or workstations location can be easily found using this structure.
 
+***
+
+# Group Policy Object
+
+## GPO - Password Policy
+
+This GPO is used to enforce password security across the entire domain.
+
+| Policy | Default | New Setting |
+| ------ | ------- | ----------  |
+| Max password age | 42 days | 60 days |
+| Min password length | 7 characters | 10 characters |
 
 
 
