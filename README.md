@@ -44,4 +44,15 @@ corplab.local
     ├── ITSupport
 
 ```
+## Reason for Structure 
+
+**Groups and Branches OUs** allow users to be placed into groups based on their role and then assigned permissions appropriate to that role. This eliminates the confusion that can arise when you assign permissions directly to a user. Branches are created to keep a clean structure as a company grows. 
+
+**Location-based OUs** make it simple and quick to apply Group Policies and delegate access to users across the domain. In a production environment, separating by location rather than object type allows GPOs to be applied to users and computers. It also allows for quicker troubleshooting, a computer or workstations location can be easily found using this structure.
+
+
+
+
+
+
 
